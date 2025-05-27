@@ -1,3 +1,4 @@
 torch
+tflite-runtime
 opencv-python
 RPi.GPIO
